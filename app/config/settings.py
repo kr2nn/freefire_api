@@ -1,3 +1,3 @@
 UID = "4111024918"
 PASS = "0CF96B1F55D89761D351EC4F60A9B0C6C30A6F6D3B103CD2894BC599E76BEA4E"
-URL = "https://nexx32jwt.onrender.com/fetch-token"
+URL = "https://freefire-api-rvdj.onrender.com/fetch-token"
